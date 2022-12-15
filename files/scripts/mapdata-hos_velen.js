@@ -2483,7 +2483,7 @@ window.mapdata_hos_velen = {
 		label: $.t("sidequests.label.barnful"),
 		popup: $.t("v:sidequests.desc.barnful")
 	},{
-		coords: [[132.406,131.406]],
+		coords: [[132.391,131.391]],
 		label: $.t("sidequests.label.nextgen"),
 		popup: $.t("v:sidequests.desc.nextgen")
 	},{
