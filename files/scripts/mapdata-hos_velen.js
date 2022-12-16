@@ -3042,6 +3042,10 @@ window.mapdata_hos_velen = {
 		label: $.t("v:signpost.label.crowsPerch"),
 		popup: $.t("v:signpost.desc.crowsPerch")
 	},{
+		coords: [[104.672,75.281]],
+		label: $.t("v:signpost.label.crowsVill"),
+		popup: $.t("v:signpost.desc.crowsVill")
+	},{
 		coords: [[83.781,88.406]],
 		label: $.t("v:signpost.label.boatmakersHut"),
 		popup: $.t("v:signpost.desc.boatmakersHut")
