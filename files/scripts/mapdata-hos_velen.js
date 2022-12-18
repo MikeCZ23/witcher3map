@@ -2262,8 +2262,8 @@ window.mapdata_hos_velen = {
 		popup:$.t("scavenger.dia") + $.t("scavenger.name.urs") + $.t("scavenger.item.armor") + $.t("scavenger.level.3") + $.t("<br />") + $.t("scavenger.dia") + $.t("scavenger.name.urs") + $.t("scavenger.item.gaunt") + $.t("scavenger.level.3") + $.t("<br />") + $.t("scavenger.dia") + $.t("scavenger.name.urs") + $.t("scavenger.item.trous") + $.t("scavenger.level.3") + $.t("<br />") + $.t("scavenger.dia") + $.t("scavenger.name.urs") + $.t("scavenger.item.boot") + $.t("scavenger.level.3") + $.t("<br />") + $.t("misc.entrance1",{x1: $.t("<a href='#6/142.984/118.125\'>"), end: $.t("</a>")})
 	},{
 		coords: [[141.453,119.125]],
-		label: $.t("scavenger.dia") + $.t("scavenger.name.fgrwol") + $.t("scavenger.level.1"),
-		popup:$.t("scavenger.dia") + $.t("scavenger.name.fgrwol") + $.t("scavenger.item.armor") + $.t("scavenger.level.1") + $.t("<br />") + $.t("scavenger.dia") + $.t("scavenger.name.fgrwol") + $.t("scavenger.item.gaunt") + $.t("scavenger.level.1") + $.t("<br />") + $.t("scavenger.dia") + $.t("scavenger.name.fgrwol") + $.t("scavenger.item.trous") + $.t("scavenger.level.1") + $.t("<br />") + $.t("scavenger.dia") + $.t("scavenger.name.fgrwol") + $.t("scavenger.item.boot") + $.t("scavenger.level.1")
+		label: $.t("scavenger.dia") + $.t("scavenger.name.fgrwol") + $.t("scavenger.level.6"),
+		popup:$.t("scavenger.dia") + $.t("scavenger.name.fgrwol") + $.t("scavenger.item.armor") + $.t("scavenger.level.6") + $.t("<br />") + $.t("scavenger.dia") + $.t("scavenger.name.fgrwol") + $.t("scavenger.item.gaunt") + $.t("scavenger.level.6") + $.t("<br />") + $.t("scavenger.dia") + $.t("scavenger.name.fgrwol") + $.t("scavenger.item.trous") + $.t("scavenger.level.6") + $.t("<br />") + $.t("scavenger.dia") + $.t("scavenger.name.fgrwol") + $.t("scavenger.item.boot") + $.t("scavenger.level.6")
 	}],
 
 	//------------------------------------------------Shopkeeper------------------------------------------------
