@@ -392,7 +392,8 @@
             "2": "- Enhanced",
             "3": "- Superior",
             "4": "- Mastercrafted",
-            "5": "- Grandmaster"
+            "5": "- Grandmaster",
+	    "6": "- Forgoten"
         },
         "name": {
             "fel": "Feline ",
