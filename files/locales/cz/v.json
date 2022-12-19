@@ -154,13 +154,13 @@
     },
     "poi": {
         "desc": {
-            "lantern": "Lucerna",
+            "lantern": "Nový zdroj světla, místo louče __link1__ klikněte zde __link2__. ",
             "acorn": "Lze jej získat z Imlerithova těla na konci úkolu „__quest__“. Může být spotřebován pro získání 2 dovednostních bodů nebo rozdán vesničanům na konci mise.",
             "marriage": "kolový předmět „__quest__“. ",
             "spirits": "Duchové z úkol „__quest__“. "
         },
         "label": {
-            "lantern": "Nový zdroj světla, místo louče __link1__ klikněte zde __link2__. ",
+            "lantern": "Lucerna",
             "acorn": "Kouzelný žalud",
             "brush": "Ozdobený štětec",
             "portrait": "Portrét Iris a Olgierda",
