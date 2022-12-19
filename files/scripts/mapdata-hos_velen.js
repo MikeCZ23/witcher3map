@@ -2090,6 +2090,10 @@ window.mapdata_hos_velen = {
 
 	//------------------------------------------------Point of Interest------------------------------------------------
 	poi: [{
+		coords: [[142.938,118.609]],
+		label: $.t("v:poi.label.lantern"),
+		popup: $.t("v:poi.desc.lantern")
+	},{
 		coords: [[47.125,78.172]],
 		label: $.t("v:poi.label.spirits"),
 		popup: $.t("v:poi.desc.spirits",{quest: $.t("sidequests.label.towerful")})
