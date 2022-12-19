@@ -2092,7 +2092,7 @@ window.mapdata_hos_velen = {
 	poi: [{
 		coords: [[142.938,118.609]],
 		label: $.t("v:poi.label.lantern"),
-		popup: $.t("v:poi.desc.lantern")
+		popup: $.t("v:poi.desc.lantern",{link1: $.t("<a href='https://www.youtube.com/watch?v=PUTSvC6OKBM' target='_blank'>"),link2: $.t("</a>")})
 	},{
 		coords: [[47.125,78.172]],
 		label: $.t("v:poi.label.spirits"),
