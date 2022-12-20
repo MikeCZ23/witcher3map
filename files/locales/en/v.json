@@ -154,7 +154,7 @@
     },
     "poi": {
         "desc": {
-            "lantern": "New light source __link1__ Click Here __link2__",
+            "lantern": "New light source. For detailed description: __link1__ Click Here __link2__",
             "acorn": "It can be retrieved from Imlerith's body at the end of the '__quest__' quest. It can be consumed to gain 2 skill points or given to villagers at the end of the mission. ",
             "marriage": "'__quest__' quest item.",
             "spirits": "Spirits from the : '__quest__' . "
