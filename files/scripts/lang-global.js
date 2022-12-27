@@ -15,12 +15,16 @@ window.i18noptions = {
 	fallbackLng: 'en',
 	resGetPath: ((isRoot) ? "" : "../")+'files/locales/__lng__/__ns__.json',
 	useDataAttrOptions: true,
-	lngWhitelist: [ 'en' , 'cz' ]
+	lngWhitelist: [ 'en' , 'cz', 'pl', 'ru', 'tr', 'ch' ]
 };
 
 var languageOptions = [
-    {text: "Čeština",value: "cz",selected: (localStorage['lang'] == "cz" ? true : false), description: " ",imageSrc: ((isRoot) ? "" : "../")+"files/images/flags/cz.png"},
-	{text: "English",value: "en",selected: (localStorage['lang'] == "en" ? true : false), description: " ",imageSrc: ((isRoot) ? "" : "../")+"files/images/flags/en.png"}
+	{text: "English",value: "en",selected: (localStorage['lang'] == "en" ? true : false), description: " ",imageSrc: ((isRoot) ? "" : "../")+"files/images/flags/en.png"},
+	{text: "Čeština",value: "cz",selected: (localStorage['lang'] == "cz" ? true : false), description: " ",imageSrc: ((isRoot) ? "" : "../")+"files/images/flags/cz.png"},
+	{text: "Poland (WIP)",value: "pl",selected: (localStorage['lang'] == "pl" ? true : false),description: " ",imageSrc: ((isRoot) ? "" : "../")+"files/images/flags/pl.png"},
+	{text: "Русский",value: "ru",selected: (localStorage['lang'] == "ru" ? true : false),description: " ",imageSrc: ((isRoot) ? "" : "../")+"files/images/flags/ru.png"},
+	{text: "Türkçe",value: "tr",selected: (localStorage['lang'] == "tr" ? true : false),description: " ",imageSrc: ((isRoot) ? "" : "../")+"files/images/flags/tr.png"},
+	{text: "Chinese Traditional (WIP)",value: "ch",selected: (localStorage['lang'] == "ch" ? true : false),description: " ",imageSrc: ((isRoot) ? "" : "../")+"files/images/flags/ch.png"}
 ];
 
 window.changeLang = function(lang) {
