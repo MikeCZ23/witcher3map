@@ -1105,6 +1105,60 @@ window.mapdata_skellige = {
 		popup: $.t("hidden.guarded")
 	}],
 
+	//------------------------------------------------Hollow Treasure------------------------------------------------
+	hollow: [{
+		coords: [[-23.080,-9.976]],
+		label: $.t("sidebar.hollow"),
+		popup: $.t("hollow.desc")
+	},{
+		coords: [[-43.325,-42.605]],
+		label: $.t("sidebar.hollow"),
+		popup: $.t("hollow.desc")
+	},{
+		coords: [[37.300,-99.031]],
+		label: $.t("sidebar.hollow"),
+		popup: $.t("hollow.desc")
+	},{
+		coords: [[38.976,-20.544]],
+		label: $.t("sidebar.hollow"),
+		popup: $.t("hollow.desc")
+	},{
+		coords: [[58.089,-2.615]],
+		label: $.t("sidebar.hollow"),
+		popup: $.t("hollow.desc")
+	},{
+		coords: [[5.791,56.250]],
+		label: $.t("sidebar.hollow"),
+		popup: $.t("hollow.desc")
+	},{
+		coords: [[-52.268,-63.853]],
+		label: $.t("sidebar.hollow"),
+		popup: $.t("hollow.desc")
+	},{
+		coords: [[-49.110,-116.060]],
+		label: $.t("sidebar.hollow"),
+		popup: $.t("hollow.desc")
+	},{
+		coords: [[-54.188,-113.774]],
+		label: $.t("sidebar.hollow"),
+		popup: $.t("hollow.desc")
+	},{
+		coords: [[-50.972,-124.673]],
+		label: $.t("sidebar.hollow"),
+		popup: $.t("hollow.desc")
+	},{
+		coords: [[-59.779,-134.121]],
+		label: $.t("sidebar.hollow"),
+		popup: $.t("hollow.desc")
+	},{
+		coords: [[-59.690,-118.169]],
+		label: $.t("sidebar.hollow"),
+		popup: $.t("hollow.desc")
+	}],
+	
+	//------------------------------------------------Honeycomb------------------------------------------------
+	honeycomb: [],
+
 	//------------------------------------------------Innkeep------------------------------------------------
 	innkeep: [{
 		coords: [[-77.485,49.007]],
@@ -2399,56 +2453,6 @@ window.mapdata_skellige = {
 		coords: [[-63.627,-126.431]],
 		label: $.t("treasure.watertreasure") + ' (' + $.t("misc.underground") + ')',
 		popup: $.t("treasure.desc") + $.t("misc.entrance1",{x1: $.t("<a href='#6/-60.791/-127.375"), x2: $.t("-61.470"), y2: $.t("-122.278"), x3: $.t("-60.305"), y3: $.t("-125.486\'>"), end: $.t("</a>")})
-	},
-	//Tree Hollow Treause
-	{
-		coords: [[-23.080,-9.976]],
-		label: $.t("treasure.hollowtreasure"),
-		popup: $.t("treasure.desc")
-	},{
-		coords: [[-43.325,-42.605]],
-		label: $.t("treasure.hollowtreasure"),
-		popup: $.t("treasure.desc")
-	},{
-		coords: [[37.300,-99.031]],
-		label: $.t("treasure.hollowtreasure"),
-		popup: $.t("treasure.desc")
-	},{
-		coords: [[38.976,-20.544]],
-		label: $.t("treasure.hollowtreasure"),
-		popup: $.t("treasure.desc")
-	},{
-		coords: [[58.089,-2.615]],
-		label: $.t("treasure.hollowtreasure"),
-		popup: $.t("treasure.desc")
-	},{
-		coords: [[5.791,56.250]],
-		label: $.t("treasure.hollowtreasure"),
-		popup: $.t("treasure.desc")
-	},{
-		coords: [[-52.268,-63.853]],
-		label: $.t("treasure.hollowtreasure"),
-		popup: $.t("treasure.desc")
-	},{
-		coords: [[-49.110,-116.060]],
-		label: $.t("treasure.hollowtreasure"),
-		popup: $.t("treasure.desc")
-	},{
-		coords: [[-54.188,-113.774]],
-		label: $.t("treasure.hollowtreasure"),
-		popup: $.t("treasure.desc")
-	},{
-		coords: [[-50.972,-124.673]],
-		label: $.t("treasure.hollowtreasure"),
-		popup: $.t("treasure.desc")
-	},{
-		coords: [[-59.779,-134.121]],
-		label: $.t("treasure.hollowtreasure"),
-		popup: $.t("treasure.desc")
-	},{
-		coords: [[-59.690,-118.169]],
-		label: $.t("treasure.hollowtreasure"),
-		popup: $.t("treasure.desc")
 	}],
 	
 	//------------------------------------------------Vineyard Infestation------------------------------------------------

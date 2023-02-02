@@ -83,6 +83,16 @@ window.mapdata_isle_mists = {
 	//------------------------------------------------Hidden Treasure------------------------------------------------
 	hidden: [],
 
+	//------------------------------------------------Hollow Treasure------------------------------------------------
+	hollow: [{
+		coords: [[37.579,75.058]],
+		label: $.t("sidebar.hollow"),
+		popup: $.t("hollow.desc")
+	}],
+	
+	//------------------------------------------------Honeycomb------------------------------------------------
+	honeycomb: [],
+
 	//------------------------------------------------Innkeep------------------------------------------------
 	innkeep: [],
 
@@ -264,12 +274,6 @@ window.mapdata_isle_mists = {
 	},{
 		coords: [[-31.353,-0.351]],
 		label: $.t("treasure.watertreasure"),
-		popup: $.t("treasure.desc")
-	},
-	//Tree Hollow Treause
-	{
-		coords: [[37.579,75.058]],
-		label: $.t("treasure.hollowtreasure"),
 		popup: $.t("treasure.desc")
 	}],
 	

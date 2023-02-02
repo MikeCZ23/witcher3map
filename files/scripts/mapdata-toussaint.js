@@ -98,8 +98,8 @@ window.mapdata_toussaint = {
 		popup: $.t("misc.liberated") + $.t("armourer.desc")
 	},{
 		coords: [[98.031,43.953]],
-		label: $.t("sidebar.armourer") + '*',
-		popupTitle: $.t("sidebar.armourer") + ' - ' + $.t("craftlevels.Journeyman") + '*',
+		label: $.t("sidebar.armourer") + ' (' + $.t("misc.underground") + ')' + '*',
+		popupTitle: $.t("sidebar.armourer") + ' - ' + $.t("craftlevels.Journeyman") + ' (' + $.t("misc.underground") + ')' + '*',
 		popup: $.t("misc.liberated") + $.t("armourer.desc")
 	}],
 
@@ -134,7 +134,7 @@ window.mapdata_toussaint = {
 		popup: $.t("armourerstable.desc")
 	},{
 		coords: [[98.203,43.688]],
-		label: $.t("armourerstable.label"),
+		label: $.t("armourerstable.label") + ' (' + $.t("misc.underground") + ')',
 		popup: $.t("armourerstable.desc")
 	}],
 
@@ -552,7 +552,7 @@ window.mapdata_toussaint = {
 		popup: $.t("grindstone.desc")
 	},{
 		coords: [[98.125,43.656]],
-		label: $.t("sidebar.grindstone"),
+		label: $.t("sidebar.grindstone") + ' (' + $.t("misc.underground") + ')',
 		popup: $.t("grindstone.desc")
 	}],
 
@@ -865,6 +865,12 @@ window.mapdata_toussaint = {
 		popupTitle: $.t("treasure.label") + $.t(": ") + $.t("sidequests.label.tr_stink"),
 		popup: $.t("hidden.desc")
 	}],
+
+	//------------------------------------------------Hollow Treasure------------------------------------------------
+	hollow: [],
+	
+	//------------------------------------------------Honeycomb------------------------------------------------
+	honeycomb: [],
 
 	//------------------------------------------------Innkeep------------------------------------------------
 	innkeep: [{
@@ -1583,7 +1589,7 @@ window.mapdata_toussaint = {
 		popup: $.t("t:signalfire.desc")
 	},{
 		coords: [[97.563,44.672]],
-		label: $.t("t:signalfire.label"),
+		label: $.t("t:signalfire.label") + ' (' + $.t("misc.underground") + ')',
 		popup: $.t("t:signalfire.desc")
 	}],
 
