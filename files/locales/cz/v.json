@@ -83,6 +83,7 @@
             "looters3": "",
             "mercy1": "",
             "mercy2": "",
+            "millie": "",
             "passage1": "",
             "passage2": "",
             "passage3": "",
@@ -154,15 +155,21 @@
     },
     "poi": {
         "desc": {
-            "lantern": "Nový zdroj světla, místo louče. Podrobný popis: __link1__ klikněte zde__link2__. ",
-            "acorn": "Lze jej získat z Imlerithova těla na konci úkolu „__quest__“. Může být spotřebován pro získání 2 dovednostních bodů nebo rozdán vesničanům na konci mise.",
+            "acorn": "Lze jej získat z Imlerithova těla. Může být spotřebován pro získání 2 dovednostních bodů nebo rozdán vesničanům na konci mise.",
+            "brush": "",
+            "doll": "",
+			"latern": "Nový zdroj světla. ",
+            "portrait": "",
+            "sketchbook": "",
             "marriage": "kolový předmět „__quest__“. ",
-            "spirits": "Duchové z úkol „__quest__“. "
+            "spirits": "Duchové z úkolu „__quest__“. ",
+            "qobject": "Úkolový předmět „__quest__“. "
         },
         "label": {
-            "lantern": "Lucerna",
             "acorn": "Kouzelný žalud",
             "brush": "Ozdobený štětec",
+            "doll": "Panenka",
+			"latern": "Lucerna",
             "portrait": "Portrét Iris a Olgierda",
             "sketchbook": "Irisin skicář",
             "spirits": "Duchové"
@@ -216,7 +223,6 @@
             "city1": "",
             "city2": "",
             "crookback": "",
-            "nextgen": "",
             "dangerous": "",
             "darkness": "",
             "deadly": "",
@@ -232,6 +238,7 @@
             "entombed": "",
             "eyeforeye": "",
             "fake": "",
+            "eternal": "Nový vedlejší úkol který byl přidán v aktualizaci New-Gen (4.0).",
             "favor": "",
             "feast": "",
             "fencing": "",
