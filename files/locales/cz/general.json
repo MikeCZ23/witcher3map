@@ -225,10 +225,10 @@
         "guarded": "Tajná skrýš plná cenného zboží. "
     },
     "hollow": {
-        "desc": "Some gold can be found inside the hollow. "
+        "desc": "Uvnitř dutiny lze nalézt trochu zlata. "
     },
 	"honeycomb": {
-        "desc": "Honeycombs here can be collected by burning and then sold to Tomira for money. "
+        "desc": "Medové plástve zde můžete sbírat pomocí Igni a poté je prodat Tomiře. "
     },
     "home": {
         "resultsFound": "výsledků nalezeno. ",
@@ -453,8 +453,8 @@
         "harbor": "Přístav",
         "herbalist": "Bylinkář",
         "hidden": "Ukrytý poklad",
-        "hollow": "Hollow Treasure",
-        "honeycomb": "Honeycomb",
+        "hollow": "Poklad v dutině",
+        "honeycomb": "Medová plástev",
         "innkeep": "Hospodský",
         "kid": "Bludný rytíř v nesnázích",
         "monsterden": "Doupě příšer",
