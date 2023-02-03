@@ -18,11 +18,13 @@
     "poi": {
         "desc": {
             "boss": "If you kill 6 cows here 3 times in a row, 27 level Chort will appear and attack you; Attention! When you kill the chort, new ones keep coming. ",
-            "crystalSkull": "Unlocks a dialog with Yennifer at her '__quest__' mission. "
+            "crystalSkull": "Unlocks a dialog with Yennifer at her '__quest__' mission. ",
+			"diary": "If received during the '__quest__' quest, additional earnings can be obtained by talking to Tomira after the quest. "
         },
         "label": {
             "boss": "Secret Boss (Chort)",
-            "crystalSkull": "Crystal Skull"
+            "crystalSkull": "Crystal Skull",
+			"diary": "Yellowed Diary"
         }
     },
     "shopkeeper": {

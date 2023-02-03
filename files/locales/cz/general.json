@@ -124,6 +124,8 @@
         "popuptranslations1": "Ruština - __Arkwulf__ (S pomocí starých crowdin překladů)",
         "popuptranslations2": "Turečtina - __BaHTsIzBEdEvi__",
         "popuptranslations3": "Čeština - __MikeCZ__ a __Lord Mazour__",
+        "popuptranslations4": "Tradiční čínská - __YheonYeung__",
+        "popuptranslations5": "Polština - __toffi3__, __Umber91310486__ a __Mochal__",
 		"version": "Verze: "
     },
     "entrance": {
@@ -168,6 +170,7 @@
             "looters3": "Kořistníci III - Zbojníci z Toderasu",
             "mercy1": "Na milost cizinců (1. část)",
             "mercy2": "Na milost cizinců (2. část)",
+            "millie": "Millie's Gift for Geralt",
             "naughty": "Zlobivé peří",
             "passage1": "Cena průchodu (1. část)",
             "passage2": "Cena průchodu (2. část)",
@@ -220,6 +223,12 @@
     "hidden": {
         "desc": "Tajná skrýš plná cenného zboží. ",
         "guarded": "Tajná skrýš plná cenného zboží. "
+    },
+    "hollow": {
+        "desc": "Some gold can be found inside the hollow. "
+    },
+	"honeycomb": {
+        "desc": "Honeycombs here can be collected by burning and then sold to Tomira for money. "
     },
     "home": {
         "resultsFound": "výsledků nalezeno. ",
@@ -310,16 +319,16 @@
     },
     "maps": {
         "fables": "Kraj tisíce bájí",
-        "fables_main": "Kraj tisíce bájí __hover__",
+        "fables_main": "Kraj tisíce bájí <img src=files/images/logo/dlp1_cz.png />",
         "gaunter": "Gaunterův svět",
-        "gaunter_main": "Gaunterův svět __hover__",
+        "gaunter_main": "Gaunterův svět <img src=files/images/logo/dlp2_cz.png />",
         "isle_mists": "Ostrov mlh",
         "kaer_morhen": "Kaer Morhen",
         "skellige": "Skelligské ostrovy",
         "toussaint": "Toussaint",
-        "toussaint_main": "Toussaint __hover__",
+        "toussaint_main": "Toussaint <img src=files/images/logo/dlp1_cz.png />",
         "velen": "Velen a Novigrad",
-        "velen_main": "Velen a Novigrad __hover__",
+        "velen_main": "Velen a Novigrad <img src=files/images/logo/dlp2_cz.png />",
         "white_orchard": "Bělosad"
     },
     "misc": {
@@ -337,7 +346,9 @@
         "mdisappears": "Nemusí být přístupné po misi „__quest__“. ",
         "portraitWarn": "Pozn.: mapu je lepší prohlížet na šířku",
         "treasure": "Honba za pokladem",
-        "underground": "podzemí"
+        "underground": "podzemí",
+        "logo": "<img src='files/images/logo/logo_cz.png' class='center'>",
+		"logo_min": "<img src='../files/images/logo/logo_cz_min.png' class='center'>"
     },
     "monsterden": {
         "desc": "Místo zamořené příšerami. Neustálá starost pro ty, kteří žijí poblíž.. "
@@ -392,8 +403,7 @@
             "2": "- Vylepšené",
             "3": "- Prvotřídní",
             "4": "- Mistrovské",
-            "5": "- Velmistrovské",
-	    "6": "- Zapomenutý"
+            "5": "- Velmistrovské"
         },
         "name": {
             "fel": "Kočičí ",
@@ -401,7 +411,8 @@
             "man": "Mantikoří ",
             "ser": "Zmijí ",
             "urs": "Medvědí ",
-            "wol": "Vlčí "
+            "wol": "Vlčí ",
+            "fwol": "Zapomenuté Vlčí "
         }
     },
     "shopkeeper": {
@@ -442,6 +453,8 @@
         "harbor": "Přístav",
         "herbalist": "Bylinkář",
         "hidden": "Ukrytý poklad",
+        "hollow": "Hollow Treasure",
+        "honeycomb": "Honeycomb",
         "innkeep": "Hospodský",
         "kid": "Bludný rytíř v nesnázích",
         "monsterden": "Doupě příšer",
@@ -507,7 +520,7 @@
             "deadly": "Smrtící spiknutí",
             "death": "Na smrtelné posteli",
             "deathfire": "Smrt ohněm",
-	    "nextgen": "Ve stínu věčného ohně",
+	        "eternal": "Ve stínu věčného ohně",
             "defender": "Ochránce víry",
             "disturbed": "Neklidný odpočinek",
             "dog": "Život pod psa",
@@ -740,7 +753,6 @@
     },
     "treasure": {
         "desc": "",
-        "hollowtreasure": "Strom dutý poklad",
         "label": "Honba za pokladem",
         "watertreasure": "Poklad pod vodou"
     },

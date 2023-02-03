@@ -81,7 +81,7 @@
         "cancelNoteButton": "Отменить заметку",
         "centerMarkerButton": "Центр выделенного маркера",
         "credits": "Авторы",
-        "donation": "Пожертвовать кофе...",
+		"donation": "Пожертвовать кофе...",
         "exitFullscreenButton": "Выход из полноэкранного просмотра",
         "helpFeatures": "Возможности и помощь",
         "hide": "Скрыть все",
@@ -124,7 +124,9 @@
         "popuptranslations1": "Pусский - __Arkwulf__ (С помощью старых переводов толпы)",
         "popuptranslations2": "турецкий - __BaHTsIzBEdEvi__",
         "popuptranslations3": "чешский - __MikeCZ__ и __Lord Mazour__",
-        "version": "Версия: "
+        "popuptranslations4": "Китайский традиционный - __YheonYeung__",
+        "popuptranslations5": "польский - __toffi3__, __Umber91310486__ и __Mochal__",
+		"version": "Версия: "
     },
     "entrance": {
         "desc": {
@@ -168,6 +170,7 @@
             "looters3": "Мародёры III",
             "mercy1": "Милосердие к незнакомцам (Часть 1)",
             "mercy2": "Милосердие к незнакомцам (Часть 2)",
+			"millie": "Подарок Милли для Геральта",
             "naughty": "Непослушные перья",
             "passage1": "Военный налог (Часть 1)",
             "passage2": "Военный налог (Часть 2)",
@@ -220,6 +223,12 @@
     "hidden": {
         "desc": "Тайник с ценными вещами. ",
         "guarded": "Тайник с ценными вещами (Охраняется: чудовищем). "
+    },
+	"hollow": {
+        "desc": "Внутри дупла можно найти немного золота. "
+    },
+	"honeycomb": {
+        "desc": "Соты здесь можно собрать, сжечь, а потом продать Томиру за деньги. "
     },
     "home": {
         "resultsFound": "результатов найдено. ",
@@ -310,16 +319,16 @@
     },
     "maps": {
         "fables": "Страна тысячи сказок",
-        "fables_main": "Страна тысячи сказок __hover__",
+        "fables_main": "Страна тысячи сказок <img src=files/images/logo/dlp1_ru.png />",
         "gaunter": "Мир Гюнтера о'Дима",
-        "gaunter_main": "Мир Гюнтера о'Дима __hover__",
+        "gaunter_main": "Мир Гюнтера о'Дима <img src=files/images/logo/dlp2_ru.png />",
         "isle_mists": "Остров туманов",
         "kaer_morhen": "Каэр Морхен",
         "skellige": "Острова Скеллиге",
         "toussaint": "Туссент",
-        "toussaint_main": "Туссент __hover__",
+        "toussaint_main": "Туссент <img src=files/images/logo/dlp1_ru.png />",
         "velen": "Велен и Новиград",
-        "velen_main": "Велен и Новиград __hover__",
+        "velen_main": "Велен и Новиград  <img src=files/images/logo/dlp2_ru.png />",
         "white_orchard": "Белый Сад"
     },
     "misc": {
@@ -337,7 +346,9 @@
         "mdisappears": "Может быть недоступен после миссии «__quest__». ",
         "portraitWarn": "Примечание: карту лучше всего рассматривать в ландшафтном режиме, нажмите, чтобы отклонить",
         "treasure": "Охота за сокровищами",
-        "underground": "подполье"
+        "underground": "подполье",
+		"logo": "<img src='files/images/logo/logo_ru.png' class='center'>",
+		"logo_min": "<img src='../files/images/logo/logo_ru_min.png' class='center'>"
     },
     "monsterden": {
         "desc": "Здесь водятся чудовища, которые беспрестанно терзают всю округу. "
@@ -400,7 +411,8 @@
             "man": "Школы Мантикоры ",
             "ser": "Школы Змеи ",
             "urs": "Школы Медведя ",
-            "wol": "Школы Волка "
+            "wol": "Школы Волка ",
+			"fwol": "Забытого Школы Волка "
         }
     },
     "shopkeeper": {
@@ -441,6 +453,8 @@
         "harbor": "Порт",
         "herbalist": "Травник",
         "hidden": "Спрятанное сокровище",
+        "hollow": "Сокровище дупла",
+        "honeycomb": "Соты",
         "innkeep": "Корчмарь",
         "kid": "Рыцарь в беде",
         "monsterden": "Рассадник чудовищ",
@@ -518,6 +532,7 @@
             "en_q": "Плата за качество",
             "en_s": "Стартовый капитал",
             "entombed": "В поисках фолианта",
+			"eternal": "В тени Вечного огня",
             "eyeforeye": "Око за око",
             "facethestrage": "Перемена",
             "faith": "Верный друг",
@@ -738,7 +753,6 @@
     },
     "treasure": {
         "desc": "",
-        "hollowtreasure": "Сокровище дупла дерева",
         "label": "Охота на сокровища",
         "watertreasure": "Сокровища под водой"
     },

@@ -81,7 +81,7 @@ window.mapdata_white_orchard = {
 	
 	//------------------------------------------------Contracts------------------------------------------------
 	contracts: [{
-		coords: [[-67.659,-100.546]],
+		coords: [[-67.391,-89.385]],
 		label: $.t("contracts.label.devil"),
 		popup: $.t("w:contracts.desc.devil")
 	}],
@@ -195,6 +195,268 @@ window.mapdata_white_orchard = {
 		popup: $.t("hidden.desc")
 	}],
 
+	//------------------------------------------------Hollow Treasure------------------------------------------------
+	hollow: [{
+		coords: [[-58.905,4.658]],
+		label: $.t("sidebar.hollow"),
+		popup: $.t("hollow.desc")
+	},{
+		coords: [[-68.057,-18.765]],
+		label: $.t("sidebar.hollow"),
+		popup: $.t("hollow.desc")
+	},{
+		coords: [[-63.627,-12.393]],
+		label: $.t("sidebar.hollow"),
+		popup: $.t("hollow.desc")
+	},{
+		coords: [[-56.414,-158.467]],
+		label: $.t("sidebar.hollow"),
+		popup: $.t("hollow.desc")
+	},{
+		coords: [[-79.836,-66.445]],
+		label: $.t("sidebar.hollow"),
+		popup: $.t("hollow.desc")
+	},{
+		coords: [[-16.889,-108.633]],
+		label: $.t("sidebar.hollow"),
+		popup: $.t("hollow.desc")
+	},{
+		coords: [[-17.644,-96.328]],
+		label: $.t("sidebar.hollow"),
+		popup: $.t("hollow.desc")
+	},{
+		coords: [[-78.341,-35.068]],
+		label: $.t("sidebar.hollow"),
+		popup: $.t("hollow.desc")
+	},{
+		coords: [[-44.024,15.996]],
+		label: $.t("sidebar.hollow"),
+		popup: $.t("hollow.desc")
+	},{
+		coords: [[-39.606,6.548]],
+		label: $.t("sidebar.hollow"),
+		popup: $.t("hollow.desc")
+	},{
+		coords: [[-52.322,-47.021]],
+		label: $.t("sidebar.hollow"),
+		popup: $.t("hollow.desc")
+	},{
+		coords: [[-21.780,-91.758]],
+		label: $.t("sidebar.hollow"),
+		popup: $.t("hollow.desc")
+	},{
+		coords: [[-68.657,-9.580]],
+		label: $.t("sidebar.hollow"),
+		popup: $.t("hollow.desc")
+	},{
+		coords: [[-58.814,-164.707]],
+		label: $.t("sidebar.hollow"),
+		popup: $.t("hollow.desc")
+	},{
+		coords: [[-59.041,-157.939]],
+		label: $.t("sidebar.hollow"),
+		popup: $.t("hollow.desc")
+	},{
+		coords: [[-61.376,-161.763]],
+		label: $.t("sidebar.hollow"),
+		popup: $.t("hollow.desc")
+	},{
+		coords: [[-67.726,0.659]],
+		label: $.t("sidebar.hollow"),
+		popup: $.t("hollow.desc")
+	},{
+		coords: [[-79.155,-94.922]],
+		label: $.t("sidebar.hollow"),
+		popup: $.t("hollow.desc")
+	}],
+	
+	//------------------------------------------------Honeycomb------------------------------------------------
+	honeycomb: [{
+		coords: [[-64.321,-121.025]],
+		label: $.t("sidebar.honeycomb"),
+		popup: $.t("honeycomb.desc")
+	},{
+		coords: [[-64.586,-130.781]],
+		label: $.t("sidebar.honeycomb"),
+		popup: $.t("honeycomb.desc")
+	},{
+		coords: [[-67.441,-143.350]],
+		label: $.t("sidebar.honeycomb"),
+		popup: $.t("honeycomb.desc")
+	},{
+		coords: [[-66.478,-156.797]],
+		label: $.t("sidebar.honeycomb"),
+		popup: $.t("honeycomb.desc")
+	},{
+		coords: [[-66.018,-155.303]],
+		label: $.t("sidebar.honeycomb"),
+		popup: $.t("honeycomb.desc")
+	},{
+		coords: [[-63.411,-153.413]],
+		label: $.t("sidebar.honeycomb"),
+		popup: $.t("honeycomb.desc")
+	},{
+		coords: [[-63.490,-156.313]],
+		label: $.t("sidebar.honeycomb"),
+		popup: $.t("honeycomb.desc")
+	},{
+		coords: [[-62.995,-159.126]],
+		label: $.t("sidebar.honeycomb"),
+		popup: $.t("honeycomb.desc")
+	},{
+		coords: [[-54.265,-158.115]],
+		label: $.t("sidebar.honeycomb"),
+		popup: $.t("honeycomb.desc")
+	},{
+		coords: [[-60.695,-173.101]],
+		label: $.t("sidebar.honeycomb"),
+		popup: $.t("honeycomb.desc")
+	},{
+		coords: [[-61.270,-172.793]],
+		label: $.t("sidebar.honeycomb"),
+		popup: $.t("honeycomb.desc")
+	},{
+		coords: [[-49.153,-146.074]],
+		label: $.t("sidebar.honeycomb"),
+		popup: $.t("honeycomb.desc")
+	},{
+		coords: [[-42.553,-155.566]],
+		label: $.t("sidebar.honeycomb"),
+		popup: $.t("honeycomb.desc")
+	},{
+		coords: [[-40.681,-157.500]],
+		label: $.t("sidebar.honeycomb"),
+		popup: $.t("honeycomb.desc")
+	},{
+		coords: [[-56.729,-135.088]],
+		label: $.t("sidebar.honeycomb"),
+		popup: $.t("honeycomb.desc")
+	},{
+		coords: [[-57.184,-134.956]],
+		label: $.t("sidebar.honeycomb"),
+		popup: $.t("honeycomb.desc")
+	},{
+		coords: [[-49.895,-137.373]],
+		label: $.t("sidebar.honeycomb"),
+		popup: $.t("honeycomb.desc")
+	},{
+		coords: [[-47.040,-137.109]],
+		label: $.t("sidebar.honeycomb"),
+		popup: $.t("honeycomb.desc")
+	},{
+		coords: [[-50.736,-129.419]],
+		label: $.t("sidebar.honeycomb"),
+		popup: $.t("honeycomb.desc")
+	},{
+		coords: [[-44.965,-134.253]],
+		label: $.t("sidebar.honeycomb"),
+		popup: $.t("honeycomb.desc")
+	},{
+		coords: [[-28.420,-134.209]],
+		label: $.t("sidebar.honeycomb"),
+		popup: $.t("honeycomb.desc")
+	},{
+		coords: [[-39.436,-127.222]],
+		label: $.t("sidebar.honeycomb"),
+		popup: $.t("honeycomb.desc")
+	},{
+		coords: [[-47.190,-124.453]],
+		label: $.t("sidebar.honeycomb"),
+		popup: $.t("honeycomb.desc")
+	},{
+		coords: [[-48.865,-123.223]],
+		label: $.t("sidebar.honeycomb"),
+		popup: $.t("honeycomb.desc")
+	},{
+		coords: [[-49.611,-122.827]],
+		label: $.t("sidebar.honeycomb"),
+		popup: $.t("honeycomb.desc")
+	},{
+		coords: [[-79.843,-106.436]],
+		label: $.t("sidebar.honeycomb"),
+		popup: $.t("honeycomb.desc")
+	},{
+		coords: [[-76.216,-27.905]],
+		label: $.t("sidebar.honeycomb"),
+		popup: $.t("honeycomb.desc")
+	},{
+		coords: [[-61.355,-58.008]],
+		label: $.t("sidebar.honeycomb"),
+		popup: $.t("honeycomb.desc")
+	},{
+		coords: [[-67.709,-53.174]],
+		label: $.t("sidebar.honeycomb"),
+		popup: $.t("honeycomb.desc")
+	},{
+		coords: [[-67.609,-41.660]],
+		label: $.t("sidebar.honeycomb"),
+		popup: $.t("honeycomb.desc")
+	},{
+		coords: [[-66.196,-12.524]],
+		label: $.t("sidebar.honeycomb"),
+		popup: $.t("honeycomb.desc")
+	},{
+		coords: [[-56.632,-129.595]],
+		label: $.t("sidebar.honeycomb"),
+		popup: $.t("honeycomb.desc")
+	},{
+		coords: [[-55.229,-128.057]],
+		label: $.t("sidebar.honeycomb"),
+		popup: $.t("honeycomb.desc")
+	},{
+		coords: [[-47.160,-87.715]],
+		label: $.t("sidebar.honeycomb"),
+		popup: $.t("honeycomb.desc")
+	},{
+		coords: [[-34.742,-88.594]],
+		label: $.t("sidebar.honeycomb"),
+		popup: $.t("honeycomb.desc")
+	},{
+		coords: [[-39.775,-97.119]],
+		label: $.t("sidebar.honeycomb"),
+		popup: $.t("honeycomb.desc")
+	},{
+		coords: [[-36.809,-34.717]],
+		label: $.t("sidebar.honeycomb"),
+		popup: $.t("honeycomb.desc")
+	},{
+		coords: [[-39.232,-31.025]],
+		label: $.t("sidebar.honeycomb"),
+		popup: $.t("honeycomb.desc")
+	},{
+		coords: [[-43.771,-48.516]],
+		label: $.t("sidebar.honeycomb"),
+		popup: $.t("honeycomb.desc")
+	},{
+		coords: [[-71.993,-142.207]],
+		label: $.t("sidebar.honeycomb"),
+		popup: $.t("honeycomb.desc")
+	},{
+		coords: [[-52.829,-134.033]],
+		label: $.t("sidebar.honeycomb"),
+		popup: $.t("honeycomb.desc")
+	},{
+		coords: [[-42.196,-135.659]],
+		label: $.t("sidebar.honeycomb"),
+		popup: $.t("honeycomb.desc")
+	},{
+		coords: [[-38.031,-132.803]],
+		label: $.t("sidebar.honeycomb"),
+		popup: $.t("honeycomb.desc")
+	},{
+		coords: [[-63.392,-54.492]],
+		label: $.t("sidebar.honeycomb"),
+		popup: $.t("honeycomb.desc")
+	},{
+		coords: [[-63.549,-162.422]],
+		label: $.t("sidebar.honeycomb"),
+		popup: $.t("honeycomb.desc")
+	},{
+		coords: [[-58.333,-127.573]],
+		label: $.t("sidebar.honeycomb"),
+		popup: $.t("honeycomb.desc")
+	}],
+	
 	//------------------------------------------------Innkeep------------------------------------------------
 	innkeep: [{
 		coords: [[-65.731,-80.068]],
@@ -280,6 +542,10 @@ window.mapdata_white_orchard = {
 		coords: [[-67.407,-76.729]],
 		label: $.t("w:poi.label.boss"),
 		popup: $.t("w:poi.desc.boss")
+	},{
+		coords: [[-79.063,-81.694]],
+		label: $.t("w:poi.label.diary"),
+		popup: $.t("w:poi.desc.diary",{quest: $.t("contracts.label.devil")})
 	}],
 
 	//------------------------------------------------Scavengers------------------------------------------------
@@ -542,11 +808,20 @@ window.mapdata_white_orchard = {
 		coords: [[-67.826,-18.325]],
 		label: $.t("sidebar.treasure"),
 		popup: $.t("treasure.desc")
+	},{
+		coords: [[-79.711,-103.096]],
+		label: $.t("sidebar.treasure"),
+		popup: $.t("treasure.desc")
+	},{
+		coords: [[-51.591,-128.145]],
+		label: $.t("sidebar.treasure"),
+		popup: $.t("treasure.desc")
 	},
 	//Underwater Treause
 	{
 		coords: [[-57.232,-103.975]],
 		label: $.t("treasure.watertreasure"),
+		popupTitle: "test",
 		popup: $.t("treasure.desc")
 	},{
 		coords: [[-50.064,-108.193]],
@@ -575,40 +850,6 @@ window.mapdata_white_orchard = {
 	},{
 		coords: [[-77.059,-70.093]],
 		label: $.t("treasure.watertreasure"),
-		popup: $.t("treasure.desc")
-	},
-	//Tree Hollow Treause
-	{
-		coords: [[-58.905,4.658]],
-		label: $.t("treasure.hollowtreasure"),
-		popup: $.t("treasure.desc")
-	},{
-		coords: [[-68.057,-18.765]],
-		label: $.t("treasure.hollowtreasure"),
-		popup: $.t("treasure.desc")
-	},{
-		coords: [[-63.627,-12.393]],
-		label: $.t("treasure.hollowtreasure"),
-		popup: $.t("treasure.desc")
-	},{
-		coords: [[-56.414,-158.467]],
-		label: $.t("treasure.hollowtreasure"),
-		popup: $.t("treasure.desc")
-	},{
-		coords: [[-79.836,-66.445]],
-		label: $.t("treasure.hollowtreasure"),
-		popup: $.t("treasure.desc")
-	},{
-		coords: [[-16.889,-108.633]],
-		label: $.t("treasure.hollowtreasure"),
-		popup: $.t("treasure.desc")
-	},{
-		coords: [[-17.644,-96.328]],
-		label: $.t("treasure.hollowtreasure"),
-		popup: $.t("treasure.desc")
-	},{
-		coords: [[-78.341,-35.068]],
-		label: $.t("treasure.hollowtreasure"),
 		popup: $.t("treasure.desc")
 	}],
 	

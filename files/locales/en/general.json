@@ -124,6 +124,8 @@
         "popuptranslations1": "Russian - __Arkwulf__ (With the help of old crowdin translations)",
         "popuptranslations2": "Turkish - __BaHTsIzBEdEvi__",
         "popuptranslations3": "Czech - __MikeCZ__ and __Lord Mazour__",
+        "popuptranslations4": "Chinese Traditional - __YheonYeung__",
+        "popuptranslations5": "Polish - __toffi3__, __Umber91310486__ and __Mochal__",
 		"version": "Version: "
     },
     "entrance": {
@@ -168,6 +170,7 @@
             "looters3": "Looters III - Toderas Bandits",
             "mercy1": "At the Mercy of Strangers (Part 1)",
             "mercy2": "At the Mercy of Strangers (Part 2)",
+			"millie": "Millie's Gift for Geralt",
             "naughty": "Naughty Feathers",
             "passage1": "The Price of Passage (Part 1)",
             "passage2": "The Price of Passage (Part 2)",
@@ -220,6 +223,12 @@
     "hidden": {
         "desc": "A hidden cache of valuable goods. ",
         "guarded": "A hidden cache of valuable goods. "
+    },
+	"hollow": {
+        "desc": "Some gold can be found inside the hollow. "
+    },
+	"honeycomb": {
+        "desc": "Honeycombs here can be collected by burning and then sold to Tomira for money. "
     },
     "home": {
         "resultsFound": "result(s) found. ",
@@ -310,16 +319,16 @@
     },
     "maps": {
         "fables": "Thousand Fables",
-        "fables_main": "Thousand Fables __hover__",
+        "fables_main": "Thousand Fables <img src=files/images/logo/dlp1_en.png />",
         "gaunter": "Gaunter's World",
-        "gaunter_main": "Gaunter's World __hover__",
+        "gaunter_main": "Gaunter's World <img src=files/images/logo/dlp2_en.png />",
         "isle_mists": "Isle of Mists",
         "kaer_morhen": "Kaer Morhen",
         "skellige": "Skellige Isles",
         "toussaint": "Toussaint",
-        "toussaint_main": "Toussaint __hover__",
+        "toussaint_main": "Toussaint <img src=files/images/logo/dlp1_en.png />",
         "velen": "Velen & Novigrad",
-        "velen_main": "Velen & Novigrad __hover__",
+        "velen_main": "Velen & Novigrad  <img src=files/images/logo/dlp2_en.png />",
         "white_orchard": "White Orchard"
     },
     "misc": {
@@ -337,7 +346,9 @@
         "mdisappears": "May not be accessible after '__quest__' mission. ",
         "portraitWarn": "Note: the map is best viewed in landscape mode, tap to dismiss",
         "treasure": "Treasure Hunt",
-        "underground": "Underground"
+        "underground": "Underground",
+		"logo": "<img src='files/images/logo/logo_en.png' class='center'>",
+		"logo_min": "<img src='../files/images/logo/logo_en_min.png' class='center'>"
     },
     "monsterden": {
         "desc": "Monster-infested location. A constant worry for those living nearby. "
@@ -392,8 +403,7 @@
             "2": "- Enhanced",
             "3": "- Superior",
             "4": "- Mastercrafted",
-            "5": "- Grandmaster",
-	    "6": "- Forgotten"
+            "5": "- Grandmaster"
         },
         "name": {
             "fel": "Feline ",
@@ -401,7 +411,8 @@
             "man": "Manticore ",
             "ser": "Serpentine ",
             "urs": "Ursine ",
-            "wol": "Wolven "
+            "wol": "Wolven ",
+			"fwol": "Forgotten Wolven "
         }
     },
     "shopkeeper": {
@@ -442,6 +453,8 @@
         "harbor": "Harbor",
         "herbalist": "Herbalist",
         "hidden": "Hidden Treasure",
+        "hollow": "Hollow Treasure",
+        "honeycomb": "Honeycomb",
         "innkeep": "Innkeep",
         "kid": "Knight in Distress",
         "monsterden": "Monster Den",
@@ -502,7 +515,6 @@
             "coronation": "Coronation",
             "cosplay": "Extreme Cosplay",
             "crookback": "Return to Crookback Bog",
-	    "nextgen": "In The Eternal Fire's Shadow",
             "dangerous": "A Dangerous Game",
             "darkness": "Of Dairy and Darkness",
             "deadly": "A Deadly Plot",
@@ -520,6 +532,7 @@
             "en_q": "Quality Has Its Price",
             "en_s": "Start-up Costs",
             "entombed": "A Tome Entombed",
+			"eternal": "In The Eternal Fire's Shadow",
             "eyeforeye": "An Eye for an Eye",
             "facethestrage": "Turn and Face the Strange",
             "faith": "Faithful Friend",
@@ -740,7 +753,6 @@
     },
     "treasure": {
         "desc": "",
-        "hollowtreasure": "Tree Hollow Treasure",
         "label": "Treasure Hunt",
         "watertreasure": "Underwater Treasure"
     },
