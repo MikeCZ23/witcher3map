@@ -161,17 +161,17 @@
 			"lantern": "Nový zdroj světla. ",
             "portrait": "",
             "sketchbook": "",
-            "marriage": "kolový předmět „__quest__“. ",
+            "marriage": "Úkolový předmět „__quest__“. ",
             "spirits": "Duchové z úkolu „__quest__“. ",
             "qobject": "Úkolový předmět „__quest__“. "
         },
         "label": {
             "acorn": "Kouzelný žalud",
-            "brush": "Ozdobený štětec",
+            "brush": "Ozdobný hřeben",
             "doll": "Panenka",
 			"lantern": "Lucerna",
-            "portrait": "Portrét Iris a Olgierda",
-            "sketchbook": "Irisin skicář",
+            "portrait": "Podobizna Iris a Olgierda",
+            "sketchbook": "Irisin náčrtník",
             "spirits": "Duchové"
         }
     },
