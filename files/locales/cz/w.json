@@ -1,15 +1,3 @@
-{
-    "contracts": {
-        "desc": {
-            "devil": ""
-        }
-    },
-    "event": {
-        "desc": {
-            "dwarves": "",
-            "tomira": "Pouze pokud Radovid vyhrál."
-        }
-    },
     "innkeep": {
         "inns": {
             "whiteOrchardInn": "Bělosadská hospoda"
@@ -19,7 +7,7 @@
         "desc": {
             "boss": "Pokud zde třikrát za sebou zabiješ 6 krav, objeví se čert 27. úrovně a zaútočí na tebe, tak dávej pozor! Když ho zabiješ, budou se objevovat další. ",
             "crystalSkull": "Jejím sebráním si zpřístupníš nový dialog s Yennefer během úkolu „__quest__“. ",
-            "diary": "If received during the '__quest__' quest, additional earnings can be obtained by talking to Tomira after the quest. "
+            "diary": "Pokud jej získáte během úkolu  „__quest__“, další výdělky můžete získat po rozhovoru s Tomirou po splnění úkolu. "
         },
         "label": {
             "boss": "Tajný boss (Čert)",
