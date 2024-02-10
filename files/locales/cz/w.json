@@ -1,5 +1,5 @@
 {
-"innkeep": {
+    "innkeep": {
         "inns": {
             "whiteOrchardInn": "Bělosadská hospoda"
         }
@@ -8,7 +8,7 @@
         "desc": {
             "boss": "Pokud zde třikrát za sebou zabiješ 6 krav, objeví se čert 27. úrovně a zaútočí na tebe, tak dávej pozor! Když ho zabiješ, budou se objevovat další. ",
             "crystalSkull": "Jejím sebráním si zpřístupníš nový dialog s Yennefer během úkolu „__quest__“. ",
-            "diary": "Pokud jej získáte během úkolu  „__quest__“, další výdělky můžete získat po rozhovoru s Tomirou po splnění úkolu. "
+            "diary": "Pokud jej získáte během úkolu  „__quest__“, další odměny můžete získat po rozhovoru s Tomirou po splnění úkolu. "
         },
         "label": {
             "boss": "Tajný boss (Čert)",
@@ -19,20 +19,6 @@
     "shopkeeper": {
         "desc": {
             "gwentCraftingAndHorse": "Prodává gwintové karty, řemeslnické zásoby, temerské klapky na oči, sedla, sedlové brašny a zbroj."
-        }
-    },
-    "sidequests": {
-        "desc": {
-            "death": "",
-            "faith": "",
-            "fry": "",
-            "gw_collect": "",
-            "missing": "",
-            "precious": "",
-            "tr_deserter": "",
-            "tr_dirty": "",
-            "tr_temerian": "",
-            "twist": ""
         }
     },
     "signpost": {

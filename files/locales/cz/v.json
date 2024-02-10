@@ -29,33 +29,18 @@
             "sewers1": "Přístup ke kanalizaci č. 1",
             "sewers2": "Přístup ke kanalizaci č. 2",
             "sewers3": "Přístup ke kanalizaci č. 3",
-            "sewers4": "Přístup ke kanalizaci č. 4"
+            "sewers4": "Přístup ke kanalizaci č. 4",
+			"pass": "Tajný průchod"
         },
         "label": {
-            "sewers": "Vstup do kanalizace"
+            "sewers": "Vstup do kanalizace",
+			"pass": "Tajná chodba používaná ke vstupu do Plesnivého hájku. Klíč ke dveřím uvnitř tunelu je přístupný pouze během mise „__quest__”."
         }
     },
     "gwent": {
         "popup": {
             "olgierd": "Olgierd von Everec",
             "shani": "Shani"
-        }
-    },
-    "gwentquest": {
-        "players": {
-            "baron": "Krvavý baron",
-            "boatwright": "Boatwright",
-            "dijkstra": "Sigismund Dijkstra",
-            "haddy": "Haddy",
-            "merchant": "Obchodník Scoia'tael",
-            "olivier": "Olivier",
-            "roche": "Vernon Roche",
-            "sage": "Starý mudrc",
-            "serenity": "Markýza Serenity",
-            "stjepan": "Stjepan",
-            "thaler": "Thaler",
-            "vivaldi": "Vimme Vivaldi",
-            "zoltan": "Zoltan"
         }
     },
     "innkeep": {
@@ -91,17 +76,18 @@
         "desc": {
             "acorn": "Lze jej získat z Imlerithova těla. Může být spotřebován pro získání 2 dovednostních bodů nebo rozdán vesničanům na konci mise. ",
             "brush": " ",
-            "contract": "Pokud ji získáte během mise, můžete na jejím konci získat další odměny. ",
-            "diary": " ",
+			"contract": "Pokud ji získáte během mise, můžete na jejím konci získat další odměny. ",
+			"diary": " ",
             "doll": " ",
-            "elementa": "Pro dokončení druhé fáze Easter Eggu je třeba zabít zemního elementála vysoké úrovně. ",
+			"elementa": "K dokončení druhé fáze Easter Egg musí být zabit elementál Země na vysoké úrovni. ",
 			"hat": " ",
-			"lantern": "Nový zdroj světla. ",
-            "dlever": "Po stisknutí páčky se okolí na krátkou dobu ztmaví. ",
-			"elever": "Pro dokončení první fáze Easter Eggu je nutné zatáhnout za 3 páky. ",
+            "lantern": "Nový zdroj světla. ",
+			"dlever": "Je to jedno z velikonočních vajíček ve hře. ",
+			"elever": "K provedení první fáze Easter Egg je nutné zatáhnout za 3 páky. ",
 			"nilfgaardian": " ",
+			"notes": "Pokud je shromážděn během úkolu „__quest__“, zobrazí se na konci úkolu další dialogové možnosti. Může také poskytnout podporu v boji na konci mise.",
 			"paper": " ",
-			"portal": "Po průchodu portálem se setkáte s iluzemi, které nelze zabít. Nápis na zdi je poslední fází Easter Eggu. Dva krystaly lze vrátit nabitím energie Aardem.  ",
+			"portal": "Po průchodu portálem se setkáte s iluzemi, které nelze zabít. Nápis na zeď je poslední fází Easter Eggu. Dva krystaly lze vrátit nabitím energie Aardem. ",
             "portrait": " ",
             "sketchbook": " ",
             "spirits": "Duchové z úkolu „__quest__“. ",
@@ -110,18 +96,26 @@
         "label": {
             "acorn": "Kouzelný žalud",
             "brush": "Ozdobný hřeben",
-            "contract": "Smlouva",
-            "diary": "Deník Dolores Reardonové",
+			"contract": "Smlouva",
+			"diary": "Deník Dolores Reardonové",
             "doll": "Panenka",
-            "elementa": "Zemní Elementál",
+			"elementa": "Elementál Země",
+			"edgar": "Poznámka od otce Edgara",
 			"hat": "Klobouk polykače ohně",
-			"lantern": "Lucerna",
-            "lever": "Páka",
+            "lantern": "Lucerna",
+			"lever": "Páka",
 			"nilfgaardian": "Nilfgaardská přilba a sada brnění",
 			"paper": "Volné útržky papíru",
+			"priest": "Přísaha zapomenutého kněze",
 			"portal": "Portál",
-            "portrait": "Podobizna Iris a Olgierda",
-            "sketchbook": "Irisin náčrtník",
+            "portrait": "Portrét Iris a Olgierda",
+			"reinald0": "Reinaldova poznámka",
+			"reinald1": "Reinaldův 1. dopis",
+			"reinald2": "Reinaldův 2. dopis",
+			"reinald3": "Reinaldův 3. dopis",
+			"reinald4": "Reinaldův 4. dopis",
+			"reinald5": "Reinaldův 5. dopis",
+            "sketchbook": "Irisin skicář",
             "spirits": "Duchové"
         }
     },
@@ -144,17 +138,19 @@
             "gwentAndJewellery": "Prodává gwintové karty a bižuterie (výrobní zásoby). ",
             "gwentFoodAndDrink": "Prodává gwintové karty, jídlo a pití. ",
             "kingfOfBeggarsMerchant": "Prodává výrobní zásoby, zbraně a „Zerrikánské sedlové brašny“ (+100). ",
-            "paintMerchant": "Úkolový předmět ('__quest__'), usně a pití. ",
+            "paintMerchant": "Úkolový předmět („__quest__”), usně a pití. ",
             "uselessMerchant": "Neprodává nic, co by stálo za zmínku. ",
             "weaponsAndCraftingSupplies": "Prodává zbraně a výrobní zásoby. "
         },
         "label": {
             "anselm": "Anselm",
+			"elihal": "Elihal",
             "fishmonger": "Obchodník s rybami",
             "gildorf": "Gildorf",
             "keira": "Keira Metz",
             "loanShark": "Lichvář",
-            "quartermaster": "Provianťák"
+            "quartermaster": "Provianťák",
+			"vivaldi": "Vimme Vivaldi"
         }
     },
     "signpost": {
@@ -172,9 +168,11 @@
             "borderPost": "Ostrůvek sevřený středním proudem řeky - úžasné místo pro bělení prádla. ",
             "bowdon": "Lukotín byl založen z nařízení krále Heriberta Svárlivého. Když krále požádali, aby na mapě ukázal, kde se má nová osada vybudovat, byl bohužel nesmírně opilý, a tak svůj prst zabořil doprostřed močálu. Ti, kteří byli donuceni se tam usídlit, zakrátko z této nehostinné bažiny uprchli. Jejich prázdné příbytky poskytly přístřeší tulákům a zbojníkům.",
             "brun": "Tato malebná vesnička je díky své kráse častým předmětem zájmu bardů a básníků. Tím nejznámějším dílem zasazeným do Broňovic je 'Zasnoubení', fraška od Stanislase Islase. Díky takto získané pověsti se z ní stalo oblíbené letovisko bohémů z Oxenfurtu, kteří sem utíkají během těch nejteplejších měsíců, aby tu trávili čas soutěžemi o tu nejkrásnější čapku s péry a lovem zlatého rohu, což se vše pořádá v noci v nedalekém lese.",
+            "brun": " ",
             "burnedRuins": "Jedna z mnoha budov v této oblasti, která nepřežila nápor války. ",
             "byways": "Většina obyvatel této oblasti uprchla na sever nebo zemřela na mor. V lepších časech se zaměstnávali pálením vysoce jakostních cihel. ",
             "carsten": "Vesnice pojmenovaná po pekaři, kterého proslavilo jeho vynikající zboží a také právo dodávat chléb na stůl hierarchy církve Věčného ohně. Po jeho smrti nedokázal jeho recept na lahodné pečivo s podmanivou vůní nikdo zopakovat, a tak je dnes Karsten známý hlavně díky obchodování s obilím a moukou. ",
+			"castle": " ",
             "cavern": "Jedno z těch míst, kterým se moudří vyhýbají za každou cenu, aby nepokoušeli osud. ",
             "claywich": "Každý rok v době Belleteynu se ve Hliněné Lhotě koná velká oslava doprovázená hrami, písněmi a tancem. Během této noci se sem scházejí vesničané z dalekého okolí a vítáni jsou i náhodní kolemjdoucí. Krátce před půlnocí soutěží přítomná mládež hluboko v lese o to, kdo najde rozkvetlé kapradí, a přestože se to ještě nikomu nepodařilo, mnozí při této příležitosti nalezli své milované či alespoň noc plnou vášně. ",
             "coastOfWrecks": "Kdysi sem chodila místní mládež, aby se poflakovala mezi vraky. Nyní toto místo dnem i nocí pročesávají obyvatelé okolních vesnic a hledají cokoliv, co by šlo vyměnit za jídlo. ",
@@ -183,7 +181,6 @@
             "crane": "Po celá staletí osvětloval maják na Jeřabím mysu cestu plavidlům hledajícím bezpečný průjezd z Koviru a Povissu do novigrdadského přístavu.",
             "crossroads": "Malé rozcestí v lesích. ",
             "crossroadsVillage": "Malé rozcestí, které mají obyvatelé okolních vesnic dobře prošlapané. ",
-            "crowsVill": "Poté, co předchozí majitel Všehrad propadl záchvatům úzkosti tváří v tvář zprávě o blížícím se vojsku a uprchl na Vršní ostrov, se hrad stal domovem Filipa Strengera alias Krvavého barona, jeho ženy a rodiny.",
             "crowsPerch": "Poté, co předchozí majitel Všerad propadl záchvatům úzkosti tváří v tvář zprávě o blížícím se vojsku a uprchl na Vršní ostrov, se hrad stal domovem Filipa Strengera alias Krvavého barona, jeho ženy a rodiny. ",
             "cunnyOfTheGoose": "Tato putyka zdědila své jméno po svém předchozím majiteli, vzteklému lajdákovi, který sem chtěl přilákat další lidi podobného ražení. Naštěstí po pár letech zemřel na otravu jater a vlastnictví přešlo na jeho vzdáleného příbuzného, který Husí pípu přetvořil v podnik, kde nabízejí nejlepší nadívaná husí játra v celém kraji. ",
             "dancingWindmill": "Když děd současného majitele, známý tanečník Pablo „Cukřík“ Sasko, ukončil svou kariéru, usadil se zde a pořádal pro okolní vesničany noci plné tance. Tyto radovánky prý byly tak oblíbené, že zde zahnojení sedláci tančili ruku v ruce se členy nejpřednějších novigradských rodin a s měšťáky hledajících dobrodružství. ",
@@ -262,6 +259,7 @@
             "vegelbudResidence": "Usedlost přední novigradské rodiny, jejíž rodokmen lze vystopovat až do dob, kdy do této země přišli první lidští osadníci. ",
             "vikk": "Podle pověstí měl ve strážné věži Vikk svou pracovnu proslulý mág Alzur.",
             "voneverec": "Dějiny sídla von Everec jsou tak spletité jako dějiny samotného rodu. Sídlo a pozemky kdysi zámožné redanské rodiny byly vydraženy poté, co se rod hluboce zadlužil, ale do rukou von Everec je opět navrátil Olgierd, nechvalně proslulý vůdce neuznávané skupiny ozbrojenců, která si říká redanská svobodná rota. Navzdory úsilí, které vynaložil na jeho opětovné získání, Olgierd sídlo za nějaký čas opustil a mezi sousedy o něm nyní kolují temné pověsti.",
+            "voneverec": " ",
             "wastrelManor": "Kdysi překrásné nedaleké sídlo se kdysi proslavilo pořádáním výstředních plesů, na kterých se scházela smetánka místní mládeže. Jeho majitelé ho opustili už před více než stoletím, ale brzy na to jej začalo místní obyvatelstvo uctívat, protože věří, že v jeho rozvalinách přebývá jakési božstvo. ",
             "westernGate": "Před vypuknutím války tudy procházely stovky lidí denně. Nyní redanská blokáda tento provoz omezila na pouhou hrstku lidí. ",
             "wheatFields": "Úrodné půdy v ústí Pontaru zaručují obyvatelům Novigradu plné sýpky i žaludky po celý rok. ",
@@ -289,6 +287,7 @@
             "burnedRuins": "Spáleniště",
             "byways": "Újezdec",
             "carsten": "Karsten",
+			"castle": "Zámecká vesnice",
             "cavern": "Jeskyně",
             "claywich": "Hliněná Lhota",
             "coastOfWrecks": "Pobřeží vraků",
@@ -297,7 +296,6 @@
             "crane": "Jeřabí mys",
             "crossroads": "Rozcestí",
             "crossroadsVillage": "Rozcestí",
-            "crowsVill": "Hradní vesnice",
             "crowsPerch": "Vranohrad",
             "cunnyOfTheGoose": "Husí pípa",
             "dancingWindmill": "Tančící mlýn",
